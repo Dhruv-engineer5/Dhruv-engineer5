@@ -35,9 +35,9 @@ I'm a passionate engineering student with a strong interest in Artificial Intell
 
 ---
 
-🏆 Certifications
+## 🏆 Certifications
 
-- ✅ HackerRank – Python (Basic)
+- ✅ [HackerRank – Python (Basic)](certificates/HackerRank-Python-Basic.md)
 
 More certifications will be added as I continue my learning journey.
 
