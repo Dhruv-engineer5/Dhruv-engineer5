@@ -1,16 +1,64 @@
-## Hi there 👋
+Hi there, I'm Dhruv A. Ghodasara 👋
 
-<!--
-**Dhruv-engineer5/Dhruv-engineer5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 First-Year AI/ML Engineering Student | Python Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a passionate engineering student with a strong interest in Artificial Intelligence, Machine Learning, and Software Development. I enjoy learning new technologies, solving coding challenges, and building practical projects that strengthen my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+👨‍💻 About Me
+
+- 🎓 First-Year AI/ML Engineering Student
+- 🐍 Learning Python, Data Structures & Algorithms
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 💡 Interested in Problem Solving and Real-World Projects
+- 🌱 Always learning and improving every day
+
+---
+
+🛠️ Tech Stack
+
+- Languages: Python
+- Version Control: Git, GitHub
+- Tools: VS Code
+- Currently Learning: DSA, OOP, SQL, NumPy, Pandas, Machine Learning
+
+---
+
+🚀 Projects
+
+- 🔢 Number Guessing Game (Python)
+- 🧮 Python Calculator
+- 🎓 Student Management System
+
+«More exciting AI/ML projects coming soon!»
+
+---
+
+🏆 Certifications
+
+- ✅ HackerRank – Python (Basic)
+
+More certifications will be added as I continue my learning journey.
+
+---
+
+📈 Current Goals (2026)
+
+- Master Python Programming
+- Strengthen Data Structures & Algorithms
+- Learn SQL, NumPy & Pandas
+- Build 20+ High-Quality Projects
+- Start Open Source Contributions
+- Prepare for AI/ML Internships
+
+---
+
+📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/dhruv-a-ghodasara-807948403
+- 💻 GitHub: https://github.com/Dhruv-engineer5
+
+---
+
+⭐ "Consistency beats talent when talent doesn't stay consistent."
